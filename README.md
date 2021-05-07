@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DSVendas
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/StefanFugmann/projeto-sds3/blob/master/LICENSE) 
 
@@ -75,3 +76,7 @@ yarn start
 Wellington Mazoni de Andrade
 
 https://www.linkedin.com/in/wmazoni
+=======
+# projeto-sds3
+![Web 1](https://github.com/StefanFugmann/assets/blob/master/DSVendas/Dashboard_TotalVendas.png)
+>>>>>>> 3603d004e7049beb9781c74f863a2d311995c13d
