@@ -1,0 +1,9 @@
+package com.fugmann.dsvendas.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.fugmann.dsvendas.entities.Sale;
+
+public interface SaleRepository extends JpaRepository<Sale, Long>{
+
+}
